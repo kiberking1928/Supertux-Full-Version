@@ -244,4 +244,4 @@ This repository serves as the official landing page for SuperTux. The software i
 **Get the most recent version of SuperTux today!**
 
 ---
-**Last updated:** 2026-10-01 14:12:23 UTC
+**Last updated:** 2026-10-01 20:07:24 UTC
